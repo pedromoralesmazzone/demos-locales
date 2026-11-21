@@ -14,7 +14,7 @@ window.DATOS = {
     mapa:"https://www.google.com/maps/search/?api=1&query=Barber%C3%ADa+BB+Sarmiento+2481+Montevideo", instagram:"https://www.instagram.com/brian_aalvarez22/" },
   horario: { abre: 10, cierra: 20, texto: "Por agenda o por orden de llegada" },
   funciones: { pedidos:false, reservas:true },
-  portada: { titulo:"Barbería BB", lema:["Las oportunidades", "se crean"], foto:U("photo-1605497788044-5a32c7078486",1800),
+  portada: { titulo:"Barbería BB", lema:["Fade, barba", "y color"], foto:U("photo-1605497788044-5a32c7078486",1800),
     destacados:["Skin fade","Corte + barba","Corte + color"], nota:{ valor:"5.0", texto:"estrellas en Google", plato:"Skin fade" } },
   insignia: { valor:"5.0", texto:"estrellas en Google" },
   presentacion: { numero:"#01", titulo:"Tu barbería en Punta Carretas", texto:"Más de 140 clientes la recomiendan en Google. Reservá tu lugar desde el celular y no esperes: elegí el servicio, el día y la hora, y te confirmamos por WhatsApp." },
