@@ -11,7 +11,7 @@ window.DATOS = {
     mapa:"https://www.google.com/maps/search/?api=1&query=Alma+Pirata+fish+and+chips+Solano+L%C3%B3pez+1416+Montevideo", instagram:"" },
   horario: { abre: 19, cierra: 24, texto: "Horario a confirmar" },
   funciones: { pedidos:true, reservas:true },
-  portada: { titulo:"Alma Pirata", lema:["Pescado y papas,","como en el puerto"], foto:U("photo-1772372043852-4a33ae5c8987",1800),
+  portada: { titulo:"Alma Pirata", lema:["Fish and chips","de verdad"], foto:U("photo-1772372043852-4a33ae5c8987",1800),
     destacados:["Fish and chips","Rabas","Picada de mar para dos"], nota:{ valor:"4.9", texto:"estrellas en Google", plato:"Fish and chips" } },
   insignia: { valor:"4.9", texto:"estrellas en Google" },
   presentacion: { numero:"#01", titulo:"Fish and chips en el Buceo", texto:"Pescado rebozado, papas, mariscos y picadas para compartir. 4.9 en Google. Pedí por WhatsApp, sin comisión de apps, o reservá tu mesa." },
